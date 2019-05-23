@@ -1,4 +1,4 @@
-Learning Pixi
+ㅔㅑ탸 
 =============
 
 A step-by-step introduction to making games and interactive media with
